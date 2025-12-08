@@ -30,11 +30,3 @@ Kelompok 4 JelajahPedia
 5. Pembayaran & E-Tiket > Ummu Abdillah
 6. notifikasi & Favorit > Gizka Azkirina
 7. Backend/Database > Ridho Fisabilillah
-
-
-
-
-
-8. 
-9. 
-10. 
