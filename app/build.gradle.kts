@@ -46,4 +46,10 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    implementation("androidx.compose.material:material-icons-extended:1.5.4")
+
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
+    
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
 }
