@@ -29,8 +29,7 @@ class ETicketViewModel : ViewModel() {
         viewModelScope.launch {
             _eTicketState.value = ETicketState.Loading
             try {
-                // TODO: Generate QR Code dan simpan ke database
-                delay(1500) // Simulasi proses
+                delay(1500) 
                 val newTicket = ETicket(
                     ticketId = "TKT-${System.currentTimeMillis()}",
                     bookingId = bookingId,
