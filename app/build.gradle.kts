@@ -47,9 +47,15 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    implementation("androidx.compose.material:material-icons-extended:1.5.4")
-
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
+     // Compose
+    implementation("androidx.compose.ui:ui:1.5.0")
+    implementation("androidx.compose.material3:material3:1.1.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1")
     
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
+    // QR Code Generation (Opsional)
+    implementation("com.google.zxing:core:3.5.0")
+    
+    // Networking (Retrofit - jika menggunakan API)
+    implementation("com.squareup.retrofit2:retrofit:2.9.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
