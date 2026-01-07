@@ -27,6 +27,6 @@ Kelompok 4 JelajahPedia
 2. Menu Login & Dashboard > M Alfiansyah
 3. Profil & Riwayat Transaksi > M Ardiesky
 4. Pencarian & Halaman Detail > Dwiki Putra
-5. Pembayaran & E-Tiket > Ummu Abdillah
+5. Pembayaran & E-Tiket > Ummu Adilla Fatma
 6. notifikasi & Favorit > Gizka Azkirina
 7. Backend/Database > Ridho Fisabilillah
